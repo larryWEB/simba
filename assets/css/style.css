@@ -103,7 +103,6 @@ body, html {
       }
 
 
-      
 
          /*
        HEADER 2222
@@ -483,9 +482,6 @@ color: var(--main-color);
   }
 
 
-
-
-
 /* AFFILIATE
 AFFILIATE
 AFFILIATE
@@ -517,21 +513,6 @@ color: white;
   color: white;
   font-family: var(--font-1);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -593,10 +574,10 @@ color: white;
     
     footer h3{
       padding-bottom:30px ;
-      padding-top:10px;
+      padding-top:30px;
       font-size: 14px;
       font-weight: 100;
-      
+      text-align: center;
     }
     
     
